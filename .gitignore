@@ -1,0 +1,8 @@
+.idea
+__pycache__
+venv
+
+figures
+result
+
+simulation/Neptun/

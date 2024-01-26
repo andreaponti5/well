@@ -1,0 +1,1575 @@
+[TITLE]
+Neptun network solve issue with double node 281
+Junctions, Pipes and Valves have been reordered
+2013.11.06
+
+[JUNCTIONS]
+;ID              	Elev        	Demand      	Pattern         
+ 3	0	0	                	;	Nod
+ 7	0	0	                	;	Nod
+ 8	0	0	                	;	Nod
+ 9	0	0	                	;	Hidrant
+ 10	0	0.04938272	DP1             	;	CaminApometru
+ 11	0	0	                	;	Nod
+ 12	0	0	                	;	Nod
+ 13	0	0.04783952	DP1             	;	CaminApometru
+ 14	0	0	                	;	Nod
+ 15	0	0	                	;	Nod
+ 16	0	0.04629632	DP1             	;	CaminApometru
+ 17	0	0	                	;	Nod
+ 18	0	0.01543208	DP1             	;	CaminApometru
+ 19	0	0.00246912	DP1             	;	CaminApometru
+ 20	0	0	                	;	Nod
+ 21	0	0	                	;	Nod
+ 22	0	0.00895064	DP1             	;	CaminApometru
+ 24	0	0	                	;	Nod
+ 25	0	0.0046296	DP1             	;	CaminApometru
+ 27	0	0	                	;	Nod
+ 28	0	0	                	;	Nod
+ 30	0	0	                	;	CaminApometru
+ 31	0	0	                	;	Nod
+ 32	0	0.02160496	DP1             	;	CaminApometru
+ 33	0	0	                	;	Nod
+ 34	0	0	                	;	Nod
+ 35	0	0	                	;	Nod
+ 36	0	0	                	;	Hidrant
+ 37	0	0	                	;	Vana
+ 38	0	0	                	;	Nod
+ 39	0	0	                	;	Vana
+ 40	0	0	                	;	Nod
+ 41	0	0.0030864	DP1             	;	CaminApometru
+ 42	0	0.00895064	DP1             	;	CaminApometru
+ 43	0	0.01851848	DP1             	;	CaminApometru
+ 44	0	0	                	;	Nod
+ 45	0	0	                	;	Nod
+ 46	0	0.00493824	DP1             	;	CaminApometru
+ 47	0	0	                	;	Nod 
+ 48	0	0	                	;	Nod
+ 49	0	0	                	;	Nod
+ 50	0	0	                	;	Nod
+ 51	0	0.0648148	DP1             	;	CaminApometru
+ 52	0	0.058642	DP1             	;	CaminApometru
+ 53	0	0.02469136	DP1             	;	CaminApometru
+ 54	0	0.00679008	DP1             	;	CaminApometru
+ 55	0	0.02314816	DP1             	;	CaminApometru
+ 56	0	0.02592592	DP1             	;	CaminApometru
+ 57	0	0	                	;	Nod
+ 58	0	0	                	;	Nod
+ 59	0	0	                	;	Nod
+ 60	0	0.02006176	DP1             	;	CaminApometru
+ 61	0	0.00401232	DP1             	;	CaminApometru
+ 62	0	0	                	;	Nod
+ 63	0	0	                	;	Nod
+ 64	0	0	                	;	Nod
+ 65	0	0	                	;	Nod
+ 66	0	0	                	;	Nod
+ 67	0	0	                	;	Nod
+ 68	0	0	                	;	Nod
+ 69	0	0	                	;	Nod
+ 70	0	0	                	;	Nod
+ 71	0	0	                	;	Hidrant
+ 72	0	0.02314816	DP1             	;	CaminApometru
+ 73	0	0	                	;	Nod
+ 74	0	0	                	;	Nod
+ 75	0	0	                	;	Nod
+ 76	0	0.0046296	DP1             	;	CaminApometru
+ 77	0	0.0015432	DP1             	;	CaminApometru
+ 78	0	0	                	;	Hidrant
+ 79	0	0	                	;	Nod
+ 80	0	0.0925928	DP1             	;	CaminApometru
+ 81	0	0	                	;	Vana
+ 82	0	0	                	;	Nod
+ 83	0	0	                	;	Nod
+ 84	0	0	                	;	Nod
+ 85	0	0.0296296	DP1             	;	CaminApometru
+ 86	0	0.02314816	DP1             	;	CaminApometru
+ 87	0	0.00617288	DP1             	;	CaminApometru
+ 88	0	0	                	;	Vana
+ 89	0	0	                	;	Nod
+ 90	0	0	                	;	Nod
+ 91	0	0.117284	DP1             	;	CaminApometru
+ 92	0	0	                	;	Nod
+ 93	0	0	                	;	Nod
+ 94	0	0	                	;	Vana
+ 95	0	0	                	;	Nod
+ 98	0	0	                	;	Nod
+ 99	0	0.01111112	DP1             	;	CaminApometru
+ 100	0	0.01203704	DP1             	;	CaminApometru
+ 101	0	0	                	;	Nod
+ 102	0	0	                	;	Nod
+ 104	0	0.01820984	DP1             	;	CaminApometru
+ 105	0	0	                	;	Nod
+ 108	0	0	                	;	Nod
+ 109	0	0	                	;	Nod
+ 110	0	0.00925928	DP1             	;	CaminApometru
+ 111	0	0	                	;	Hidrant
+ 112	0	0.00771608	DP1             	;	CaminApometru
+ 113	0	0.0030864	DP1             	;	CaminApometru
+ 114	0	0	                	;	Nod
+ 115	0	0	                	;	Nod
+ 116	0	0	                	;	Nod
+ 117	0	0.00771608	DP1             	;	CaminApometru
+ 118	0	0	                	;	Nod
+ 119	0	0.07314816	DP1             	;	CaminApometru
+ 120	0	0	                	;	Nod
+ 121	0	0	                	;	Nod
+ 122	0	0.00277776	DP1             	;	CaminApometru
+ 123	0	0.02469136	DP1             	;	CaminApometru
+ 124	0	0	                	;	Nod
+ 125	0	0.00432096	DP1             	;	CaminApometru
+ 126	0	0	                	;	Nod
+ 127	0	0	                	;	Nod
+ 128	0	0	                	;	Nod
+ 129	0	0	                	;	Hidrant
+ 130	0	0.0046296	DP1             	;	CaminApometru
+ 131	0	0	                	;	Vana
+ 132	0	0	                	;	Nod
+ 133	0	0.0015432	DP1             	;	CaminApometru
+ 134	0	0	                	;	Nod
+ 135	0	0	                	;	Nod
+ 136	0	0	                	;	Nod
+ 137	0	0	                	;	Nod
+ 138	0	0.00401232	DP1             	;	CaminApometru
+ 139	0	0	                	;	Nod
+ 140	0	0	                	;	Nod
+ 141	0	0.00586424	DP1             	;	CaminApometru
+ 142	0	0	                	;	Nod
+ 143	0	0.00679008	DP1             	;	CaminApometru
+ 144	0	0	                	;	Nod
+ 145	0	0.00493824	DP1             	;	CaminApometru
+ 146	0	0	                	;	Nod
+ 147	0	0	                	;	Nod
+ 148	0	0.00802472	DP1             	;	CaminApometru
+ 149	0	0.00277776	DP1             	;	CaminApometru
+ 150	0	0.00524688	DP1             	;	CaminApometru
+ 151	0	0	                	;	Nod
+ 152	0	0	                	;	Nod
+ 153	0	0.00246912	DP1             	;	CaminApometru
+ 154	0	0.00740744	DP1             	;	CaminApometru
+ 155	0	0	                	;	Nod
+ 156	0	0.0015432	DP1             	;	CaminApometru
+ 157	0	0	                	;	Nod
+ 158	0	0	                	;	Hidrant
+ 159	0	0	                	;	Nod
+ 160	0	0.02006176	DP1             	;	CaminApometru
+ 161	0	0	                	;	Nod
+ 162	0	0	                	;	Nod
+ 163	0	0.0030864	DP1             	;	CaminApometru
+ 164	0	0	                	;	CaminApometru
+ 168	0	0.00030864	DP1             	;	CaminApometru
+ 170	0	0	                	;	Nod
+ 171	0	0	                	;	Vana
+ 172	0	0	                	;	Nod
+ 173	0	0	                	;	Nod
+ 174	0	0	                	;	Vana
+ 175	0	0	                	;	Nod
+ 176	0	0	                	;	Nod
+ 177	0	0	                	;	Vana
+ 178	0	0	                	;	Vana
+ 179	0	0	                	;	Nod
+ 180	0	0	                	;	Nod
+ 181	0	0.03858024	DP1             	;	CaminApometru
+ 182	0	0	                	;	Nod
+ 183	0	0	                	;	Vana
+ 184	0	0	                	;	Nod
+ 185	0	0	                	;	Nod
+ 186	0	0	                	;	Nod
+ 187	0	0	                	;	Vana
+ 188	0	0	                	;	Nod
+ 189	0	0	                	;	Hidrant
+ 190	0	0	                	;	Nod
+ 191	0	0.01851848	DP1             	;	CaminApometru
+ 200	0	0	                	;	Hidrant
+ 201	0	0	                	;	Nod
+ 202	0	0	                	;	Nod
+ 203	0	0.1280864	DP1             	;	CaminApometru
+ 204	0	0	                	;	Nod
+ 206	0	0.016358	DP1             	;	CaminApometru
+ 207	0	0	                	;	Nod
+ 208	0	0.00586424	DP1             	;	CaminApometru
+ 209	0	0.02561728	DP1             	;	CaminApometru
+ 210	0	0	                	;	Nod
+ 211	0	0	                	;	Nod
+ 214	0	0	                	;	Nod
+ 215	0	0	                	;	Nod
+ 216	0	0	                	;	Hidrant
+ 217	0	0	                	;	Vana
+ 218	0	0	                	;	Nod
+ 219	0	0	                	;	Nod
+ 220	0	0	                	;	Nod
+ 221	0	0	                	;	Hidrant
+ 222	0	0.1175928	DP1             	;	CaminApometru
+ 223	0	0	                	;	Nod
+ 224	0	0.01697528	DP1             	;	CaminApometru
+ 225	0	0	                	;	Hidrant
+ 226	0	0	                	;	Nod
+ 227	0	0	                	;	Nod
+ 228	0	0	                	;	Nod
+ 229	0	0.058642	DP1             	;	CaminApometru
+ 230	0	0.0219136	DP1             	;	CaminApometru
+ 231	0	0	                	;	Nod
+ 232	0	0	                	;	Nod
+ 233	0	0.04413584	DP1             	;	CaminApometru
+ 234	0	0	                	;	Hidrant
+ 235	0	0	                	;	Nod
+ 236	0	0.1052472	DP1             	;	CaminApometru
+ 238	0	0	                	;	Nod
+ 239	0	0	                	;	Nod
+ 241	0	0	                	;	Vana
+ 243	0	0	                	;	Nod
+ 244	0	0	                	;	Hidrant
+ 245	0	0.058642	DP1             	;	CaminApometru
+ 246	0	0	                	;	Nod
+ 247	0	0	                	;	Nod
+ 248	0	0	                	;	Vana
+ 249	0	0	                	;	Nod
+ 250	0	0	                	;	Vana
+ 251	0	0	                	;	Nod
+ 252	0	0.04475312	DP1             	;	CaminApometru
+ 253	0	0.07839504	DP1             	;	CaminApometru
+ 255	0	0	                	;	Nod
+ 256	0	0	                	;	Nod
+ 257	0	0.0382716	DP1             	;	CaminApometru
+ 259	0	0.1175928	DP1             	;	CaminApometru
+ 260	0	0	                	;	Nod
+ 263	0	0.0861112	DP1             	;	CaminApometru
+ 265	0	0	                	;	Nod
+ 266	0	0	                	;	Nod
+ 268	0	0.04012344	DP1             	;	CaminApometru
+ 269	0	0	                	;	Nod
+ 270	0	0	                	;	Nod
+ 271	0	0	                	;	Nod
+ 272	0	0.1074072	DP1             	;	CaminApometru
+ 274	0	0	                	;	Vana
+ 276	0	0	                	;	Nod
+ 277	0	0	                	;	Vana
+ 278	0	0	                	;	Nod
+ 279	0	0	                	;	Nod
+ 281	0	0	                	;	Nod
+ 282	0	0	                	;	Vana
+ 283	0	0.02777776	DP1             	;	CaminApometru
+ 284	0	0	                	;	Nod
+ 285	0	0	                	;	Nod
+ 286	0	0	                	;	Nod
+ 287	0	0.0484568	DP1             	;	CaminApometru
+ 288	0	0.02314816	DP1             	;	CaminApometru
+ 289	0	0	                	;	Nod
+ 290	0	0	                	;	Vana
+ 291	0	0.05277776	DP1             	;	CaminApometru
+ 292	0	0	                	;	Vana
+ 293	0	0	                	;	Nod
+ 294	0	0	                	;	Nod
+ 295	0	0	                	;	Nod
+ 296	0	0	                	;	Hidrant
+ 297	0	0	                	;	Nod
+ 298	0	0.0351852	DP1             	;	CaminApometru
+ 299	0	0	                	;	Nod
+ 300	0	0	                	;	Nod
+ 302	0	0	                	;	Nod
+ 303	0	0	                	;	Vana
+ 305	0	0.04629632	DP1             	;	CaminApometru
+ 306	0	0	                	;	Nod
+ 307	0	0	                	;	Nod
+ 308	0	0.0570988	DP1             	;	CaminApometru
+ 309	0	0.02685184	DP1             	;	CaminApometru
+ 310	0	0	                	;	Nod
+ 311	0	0	                	;	Hidrant
+ 312	0	0	                	;	Nod
+ 314	0	0.00617288	DP1             	;	CaminApometru
+ 315	0	0	                	;	Nod
+ 316	0	0	                	;	Nod
+ 317	0	0.1185184	DP1             	;	CaminApometru
+ 318	0	0	                	;	Nod
+ 319	0	0	                	;	Vana
+ 321	0	0	                	;	Nod
+ 322	0	0	                	;	Hidrant
+ 323	0	0	                	;	Nod
+ 324	0	0	                	;	Nod
+ 325	0	0	                	;	Nod
+ 327	0	0	                	;	Nod
+ 328	0	0.0046296	DP1             	;	CaminApometru
+ 329	0	0	                	;	Hidrant
+ 330	0	0	                	;	Nod
+ 333	0	0.04629632	DP1             	;	CaminApometru
+ 334	0	0	                	;	Nod
+ 336	0	0	                	;	Hidrant
+ 342	0	0	                	;	Nod
+ 346	0	0	                	;	Vana
+ 349	0	0	                	;	Nod
+ 353	0	0	                	;	Nod
+ 354	0	0	                	;	Nod
+ 355	0	0	                	;	Nod
+ 356	0	0	                	;	Nod
+ 361	0	0.00771608	DP1             	;	CaminApometru
+ 362	0	0	                	;	Nod
+ 363	0	0.0891976	DP1             	;	CaminApometru 
+ 364	0	0	                	;	Nod
+ 366	0	0	                	;	Nod
+ 369	0	0.00895064	DP1             	;	CaminApometru 
+ 370	0	0	                	;	Nod
+ 371	0	0	                	;	Nod
+ 372	0	0.01358024	DP1             	;	CaminApometru
+ 373	0	0	                	;	Nod
+ 374	0	0.02314816	DP1             	;	CaminApometru
+ 376	0	0	                	;	Nod
+ 377	0	0	                	;	Hidrant
+ 378	0	0	                	;	Nod
+ 379	0	0	                	;	Nod
+ 380	0	0.016358	DP1             	;	CaminApometru
+ 381	0	0	                	;	Vana
+ 382	0	0	                	;	Nod
+ 383	0	0	                	;	Nod
+ 384	0	0	                	;	Vana
+ 385	0	0	                	;	Nod
+ 386	0	0	                	;	Nod
+ 387	0	0	                	;	Nod
+ 388	0	0	                	;	Nod
+ 389	0	0	                	;	Nod
+ 390	0	0	                	;	Nod
+ 391	0	0	                	;	Nod
+ 394	0	0	                	;	Nod
+ 396	0	0	                	;	Nod
+ 397	0	0	                	;	Nod
+ 399	0	0	                	;	Nod
+ NV242           	0	0	                	;	Vana
+ NV243           	0	0	                	;	Vana
+ NV246           	0	0	                	;	Vana
+ NV247           	0	0	                	;	Vana
+ NV249           	0	0	                	;	Nod
+ NV529           	0	0	                	;	Vana
+
+
+[RESERVOIRS]
+;ID              	Head        	Pattern         
+ 1               	25          	                	;
+
+[TANKS]
+;ID              	Elevation   	InitLevel   	MinLevel    	MaxLevel    	Diameter    	MinVol      	VolCurve
+
+[PIPES]
+;ID              	Node1           	Node2           	Length      	Diameter    	Roughness   	MinorLoss   	Status
+ 1               	1               	349             	1           	500         	1           	0           	Open  	;	
+ 400             	202             	188             	30.225      	80          	100         	0           	Open  	;	F
+ 401             	386             	389             	0.204       	200         	148         	0           	Open  	;	PE-HD
+ 403             	64              	74              	4.941       	80          	100         	0           	Open  	;	F
+ 404             	80              	74              	11.605      	50          	110         	0           	Open  	;	OTEL
+ 405             	123             	126             	2.622       	50          	110         	0           	Open  	;	OTEL
+ 406             	100             	90              	13.594      	50          	110         	0           	Open  	;	OTEL
+ 407             	84              	83              	2.965       	80          	100         	0           	Open  	;	F
+ 408             	95              	84              	8.433       	80          	100         	0           	Open  	;	F
+ 412             	295             	286             	2.862       	80          	100         	0           	Open  	;	F
+ 413             	315             	295             	18.804      	80          	100         	0           	Open  	;	F
+ 414             	330             	315             	13.368      	80          	100         	0           	Open  	;	F
+ 415             	370             	330             	51.869      	80          	100         	0           	Open  	;	F
+ 416             	371             	370             	0.948       	80          	100         	0           	Open  	;	F
+ 417             	382             	371             	24.112      	80          	100         	0           	Open  	;	F
+ 418             	397             	382             	10.285      	80          	100         	0           	Open  	;	F
+ 419             	354             	355             	11.143      	100         	110         	0           	Open  	;	OTEL
+ 420             	353             	354             	9.834       	100         	110         	0           	Open  	;	OTEL
+ 421             	362             	334             	25.783      	80          	100         	0           	Open  	;	F
+ 423             	144             	151             	17.301      	80          	100         	0           	Open  	;	F
+ 424             	140             	144             	2.775       	80          	100         	0           	Open  	;	F
+ 425             	134             	140             	8.206       	80          	100         	0           	Open  	;	F
+ 426             	118             	134             	19.954      	80          	100         	0           	Open  	;	F
+ 427             	114             	118             	3.839       	80          	100         	0           	Open  	;	F
+ 428             	109             	114             	7.043       	80          	100         	0           	Open  	;	F
+ 429             	220             	219             	2.087       	80          	100         	0           	Open  	;	F
+ 430             	226             	220             	13.401      	80          	100         	0           	Open  	;	F
+ 431             	383             	387             	0.219       	200         	148         	0           	Open  	;	PE-HD
+ 432             	39              	45              	9.451       	80          	100         	0           	Open  	;	F
+ 433             	297             	285             	38.948      	175         	110         	0           	Open  	;	OTEL
+ 434             	146             	142             	9.915       	80          	100         	0           	Open  	;	F
+ 436             	162             	159             	8.031       	80          	100         	0           	Open  	;	F
+ 437             	170             	162             	19.031      	80          	100         	0           	Open  	;	F
+ 438             	12              	8               	33.161      	100         	110         	0           	Open  	;	OTEL
+ 439             	14              	12              	28.355      	100         	110         	0           	Open  	;	OTEL
+ 440             	17              	14              	23.114      	100         	110         	0           	Open  	;	OTEL
+ 441             	20              	17              	20.777      	100         	110         	0           	Open  	;	OTEL
+ 442             	21              	20              	9.962       	100         	110         	0           	Open  	;	OTEL
+ 443             	27              	21              	23.898      	100         	110         	0           	Open  	;	OTEL
+ 444             	37              	27              	24.748      	100         	110         	0           	Open  	;	OTEL
+ 445             	271             	255             	23.067      	80          	100         	0           	Open  	;	F
+ 446             	307             	271             	29.483      	80          	100         	0           	Open  	;	F
+ 447             	324             	307             	13.802      	80          	100         	0           	Open  	;	F
+ 448             	327             	324             	4.818       	80          	100         	0           	Open  	;	F
+ 449             	68              	75              	27.524      	80          	100         	0           	Open  	;	F
+ 450             	265             	256             	24.352      	315         	148         	0           	Open  	;	PE-HD
+ 451             	269             	265             	22.546      	315         	148         	0           	Open  	;	PE-HD
+ 452             	270             	269             	2.268       	315         	148         	0           	Open  	;	PE-HD
+ 453             	279             	270             	23.274      	315         	148         	0           	Open  	;	PE-HD
+ 454             	289             	279             	13.11       	315         	148         	0           	Open  	;	PE-HD
+ 455             	132             	152             	23.909      	80          	100         	0           	Open  	;	F
+ 456             	121             	132             	7.627       	80          	100         	0           	Open  	;	F
+ 457             	82              	121             	49.089      	80          	100         	0           	Open  	;	F
+ 458             	31              	62              	39.112      	100         	110         	0           	Open  	;	OTEL
+ 459             	28              	31              	2.813       	100         	110         	0           	Open  	;	OTEL
+ 460             	57              	48              	23.792      	100         	110         	0           	Open  	;	OTEL
+ 461             	66              	57              	14.022      	100         	110         	0           	Open  	;	OTEL
+ 462             	92              	66              	37.172      	100         	110         	0           	Open  	;	OTEL
+ 463             	139             	155             	26.422      	100         	110         	0           	Open  	;	OTEL
+ 464             	116             	139             	32.29       	100         	110         	0           	Open  	;	OTEL
+ 465             	92              	116             	45.228      	100         	110         	0           	Open  	;	OTEL
+ 466             	306             	300             	24.788      	200         	110         	0           	Open  	;	OTEL
+ 468             	95              	98              	3.14        	80          	100         	0           	Open  	;	F
+ 469             	70              	69              	3.095       	80          	100         	0           	Open  	;	F
+ 470             	90              	70              	29.544      	80          	100         	0           	Open  	;	F
+ 471             	93              	90              	4.416       	80          	100         	0           	Open  	;	F
+ 472             	101             	93              	19.223      	80          	100         	0           	Open  	;	F
+ 473             	105             	101             	11.368      	80          	100         	0           	Open  	;	F
+ 474             	108             	105             	5.267       	80          	100         	0           	Open  	;	F
+ 475             	115             	108             	12.927      	80          	100         	0           	Open  	;	F
+ 476             	124             	115             	19.636      	80          	100         	0           	Open  	;	F
+ 477             	126             	124             	1.322       	80          	100         	0           	Open  	;	F
+ 478             	128             	126             	2.603       	80          	100         	0           	Open  	;	F
+ 479             	171             	218             	22.061      	80          	100         	0           	Open  	;	F
+ 483             	364             	373             	23.479      	80          	100         	0           	Open  	;	F
+ 484             	356             	364             	6.268       	80          	100         	0           	Open  	;	F
+ 485             	318             	356             	40.657      	80          	100         	0           	Open  	;	F
+ 486             	312             	318             	3.448       	80          	100         	0           	Open  	;	F
+ 487             	59              	63              	6.778       	80          	100         	0           	Open  	;	F
+ 488             	50              	59              	22.287      	80          	100         	0           	Open  	;	F
+ 489             	47              	50              	4.531       	80          	100         	0           	Open  	;	F
+ 490             	44              	47              	8.489       	80          	100         	0           	Open  	;	F
+ 491             	40              	44              	8.413       	80          	100         	0           	Open  	;	F
+ 492             	35              	40              	10.99       	80          	100         	0           	Open  	;	F
+ 494             	67              	68              	9.509       	80          	100         	0           	Open  	;	F
+ 495             	207             	204             	10.332      	80          	100         	0           	Open  	;	F
+ 496             	211             	207             	13.19       	80          	100         	0           	Open  	;	F
+ 497             	215             	201             	18.254      	315         	148         	0           	Open  	;	PE-HD
+ 498             	223             	215             	9.49        	315         	148         	0           	Open  	;	PE-HD
+ 499             	231             	223             	12.026      	315         	148         	0           	Open  	;	PE-HD
+ 500             	232             	231             	5.058       	315         	148         	0           	Open  	;	PE-HD
+ 501             	239             	232             	7.079       	315         	148         	0           	Open  	;	PE-HD
+ 502             	227             	238             	38.596      	80          	100         	0           	Open  	;	F
+ 503             	226             	227             	0.168       	80          	100         	0           	Open  	;	F
+ 505             	391             	394             	38.593      	200         	110         	0           	Open  	;	OTEL
+ 506             	390             	391             	2.81        	200         	110         	0           	Open  	;	OTEL
+ 508             	178             	190             	31.873      	315         	148         	0           	Open  	;	PE-HD
+ 510             	7               	3               	76.159      	100         	110         	0           	Open  	;	OTEL
+ 511             	49              	58              	12.682      	80          	100         	0           	Open  	;	F
+ 512             	33              	49              	18.389      	80          	100         	0           	Open  	;	F
+ 513             	24              	33              	16.835      	80          	100         	0           	Open  	;	F
+ 514             	15              	24              	19.084      	80          	100         	0           	Open  	;	F
+ 515             	11              	15              	19.507      	80          	100         	0           	Open  	;	F
+ 516             	260             	228             	31.781      	100         	110         	0           	Open  	;	OTEL
+ 517             	299             	260             	41.72       	100         	110         	0           	Open  	;	OTEL
+ 518             	302             	299             	1.98        	100         	110         	0           	Open  	;	OTEL
+ 520             	342             	325             	83.808      	200         	110         	0           	Open  	;	OTEL
+ 521             	319             	266             	49.872      	100         	110         	0           	Open  	;	OTEL
+ 522             	266             	243             	20.573      	100         	110         	0           	Open  	;	OTEL
+ 523             	325             	323             	5.184       	200         	110         	0           	Open  	;	OTEL
+ 525             	346             	302             	46.314      	100         	110         	0           	Open  	;	OTEL
+ 527             	228             	214             	8.071       	100         	110         	0           	Open  	;	OTEL
+ 528             	217             	243             	25.621      	100         	110         	0           	Open  	;	OTEL
+ 529             	38              	NV243           	4.031       	100         	110         	0           	Open  	;	OTEL
+ 530             	58              	64              	6.6         	80          	100         	0           	Open  	;	F
+ 531             	3               	11              	15.913      	100         	110         	0           	Open  	;	OTEL
+ 536             	378             	376             	3.169       	80          	100         	0           	Open  	;	F
+ 537             	394             	396             	36.357      	200         	110         	0           	Open  	;	OTEL
+ 538             	366             	362             	9.068       	80          	100         	0           	Open  	;	F
+ 540             	238             	241             	13.908      	80          	100         	0           	Open  	;	F
+ 541             	201             	185             	29.548      	315         	148         	0           	Open  	;	PE-HD
+ 542             	204             	202             	6.037       	80          	100         	0           	Open  	;	F
+ 544             	135             	136             	1.799       	80          	100         	0           	Open  	;	F
+ 546             	63              	88              	33.117      	80          	100         	0           	Open  	;	F
+ 547             	38              	NV242           	0.488       	80          	100         	0           	Open  	;	F
+ 549             	373             	376             	13.575      	80          	100         	0           	Open  	;	F
+ 551             	157             	158             	1.582       	100         	110         	0           	Open  	;	OTEL
+ 552             	276             	281             	25.613      	175         	110         	0           	Open  	;	OTEL
+ 553             	218             	274             	56.091      	80          	100         	0           	Open  	;	F
+ 554             	69              	67              	8.881       	80          	100         	0           	Open  	;	F
+ 555             	98              	135             	52.907      	80          	100         	0           	Open  	;	F
+ 556             	246             	247             	0.169       	225         	148         	0           	Open  	;	PE-HD
+ 557             	300             	297             	19.497      	200         	110         	0           	Open  	;	OTEL
+ 560             	48              	38              	22.415      	100         	110         	0           	Open  	;	OTEL
+ 563             	62              	68              	5.237       	100         	110         	0           	Open  	;	OTEL
+ 564             	152             	157             	2.901       	80          	100         	0           	Open  	;	F
+ 565             	131             	128             	4.222       	80          	100         	0           	Open  	;	F
+ 566             	256             	248             	6.031       	315         	148         	0           	Open  	;	PE-HD
+ 568             	239             	246             	14.572      	315         	148         	0           	Open  	;	PE-HD
+ 569             	175             	176             	0.24        	315         	150         	0           	Open  	;	PVC
+ 571             	282             	284             	1.294       	250         	148         	0           	Open  	;	PE-HD
+ 572             	239             	244             	1.379       	110         	148         	0           	Open  	;	PE-HD
+ 575             	396             	397             	1.931       	80          	100         	0           	Open  	;	F
+ 576             	397             	399             	76.51       	80          	100         	0           	Open  	;	F
+ 577             	75              	81              	27.585      	80          	100         	0           	Open  	;	F
+ 578             	323             	322             	0.882       	100         	110         	0           	Open  	;	OTEL
+ 579             	255             	235             	11.831      	80          	100         	0           	Open  	;	F
+ 580             	177             	185             	12.42       	315         	148         	0           	Open  	;	PE-HD
+ 581             	329             	327             	2.041       	100         	110         	0           	Open  	;	OTEL
+ 582             	189             	185             	1.432       	100         	110         	0           	Open  	;	OTEL
+ 583             	312             	293             	18.524      	80          	110         	0           	Open  	;	OTEL
+ 584             	311             	312             	2.023       	100         	110         	0           	Open  	;	OTEL
+ 585             	128             	129             	0.202       	100         	110         	0           	Open  	;	OTEL
+ 586             	136             	NV249           	0.397       	100         	110         	0           	Open  	;	OTEL
+ 587             	294             	290             	2.229       	315         	148         	0           	Open  	;	PE-HD
+ 588             	296             	294             	0.662       	110         	148         	0           	Open  	;	PE-HD
+ 589             	292             	289             	0.283       	315         	148         	0           	Open  	;	PE-HD
+ 591             	278             	281             	1.152       	200         	148         	0           	Open  	;	PE-HD
+ 592             	157             	161             	5.128       	200         	110         	0           	Open  	;	OTEL
+ 593             	377             	376             	0.214       	100         	110         	0           	Open  	;	OTEL
+ 594             	342             	349             	7.864       	200         	110         	0           	Open  	;	OTEL
+ 595             	336             	342             	3.167       	100         	110         	0           	Open  	;	OTEL
+ 596             	188             	187             	0.727       	80          	100         	0           	Open  	;	F
+ 597             	202             	200             	0.579       	100         	110         	0           	Open  	;	OTEL
+ 598             	8               	7               	7.589       	100         	110         	0           	Open  	;	OTEL
+ 599             	142             	136             	6.523       	80          	100         	0           	Open  	;	F
+ 600             	285             	277             	23.039      	175         	110         	0           	Open  	;	OTEL
+ 601             	284             	294             	20.72       	315         	148         	0           	Open  	;	PE-HD
+ 602             	NV247           	276             	1.507       	80          	110         	0           	Open  	;	OTEL
+ 603             	NV246           	276             	1.652       	175         	110         	0           	Open  	;	OTEL
+ 604             	323             	321             	9.432       	200         	110         	0           	Open  	;	OTEL
+ 610             	45              	79              	33.17       	80          	100         	0           	Open  	;	F
+ 626             	379             	381             	0.384       	160         	148         	0           	Open  	;	PE-HD
+ 627             	384             	385             	0.268       	125         	148         	0           	Open  	;	PE-HD
+ 628             	387             	388             	0.1         	200         	148         	0           	Open  	;	PE-HD
+ 629             	161             	173             	16.991      	250         	148         	0           	Open  	;	PE-HD
+ 630             	184             	183             	0.255       	90          	148         	0           	Open  	;	PE-HD
+ 632             	176             	179             	0.118       	315         	148         	0           	Open  	;	PE-HD
+ 633             	175             	174             	0.244       	250         	148         	0           	Open  	;	PE-HD
+ 634             	219             	211             	15.971      	80          	100         	0           	Open  	;	F
+ 635             	221             	211             	4.223       	100         	110         	0           	Open  	;	OTEL
+ 636             	151             	172             	29.302      	80          	100         	0           	Open  	;	F
+ 637             	111             	109             	1.434       	100         	110         	0           	Open  	;	OTEL
+ 640             	309             	299             	14.836      	50          	110         	0           	Open  	;	OTEL
+ 642             	18              	15              	15.786      	50          	110         	0           	Open  	;	OTEL
+ 644             	10              	8               	4.496       	50          	110         	0           	Open  	;	OTEL
+ 645             	13              	12              	8.071       	50          	110         	0           	Open  	;	OTEL
+ 646             	150             	159             	6.593       	50          	110         	0           	Open  	;	OTEL
+ 647             	143             	147             	7.366       	50          	110         	0           	Open  	;	OTEL
+ 653             	334             	327             	13.224      	80          	100         	0           	Open  	;	F
+ 654             	355             	362             	37.179      	100         	110         	0           	Open  	;	OTEL
+ 658             	374             	373             	5.045       	50          	110         	0           	Open  	;	OTEL
+ 659             	235             	184             	26.967      	80          	100         	0           	Open  	;	F
+ 660             	234             	235             	0.957       	100         	110         	0           	Open  	;	OTEL
+ 661             	286             	251             	38.93       	80          	100         	0           	Open  	;	F
+ 665             	65              	67              	1.296       	100         	110         	0           	Open  	;	OTEL
+ 666             	78              	79              	0.828       	100         	110         	0           	Open  	;	OTEL
+ 667             	170             	172             	9.577       	80          	100         	0           	Open  	;	F
+ 668             	83              	79              	5.145       	80          	100         	0           	Open  	;	F
+ 669             	308             	316             	6.992       	50          	110         	0           	Open  	;	OTEL
+ 670             	54              	59              	4.172       	50          	110         	0           	Open  	;	OTEL
+ 671             	99              	98              	5.5         	50          	110         	0           	Open  	;	OTEL
+ 672             	87              	84              	7.57        	50          	110         	0           	Open  	;	OTEL
+ 673             	77              	83              	12.09       	50          	110         	0           	Open  	;	OTEL
+ 674             	52              	48              	4.431       	50          	110         	0           	Open  	;	OTEL
+ 675             	76              	66              	4.189       	50          	110         	0           	Open  	;	OTEL
+ 676             	61              	57              	3.23        	50          	110         	0           	Open  	;	OTEL
+ 677             	42              	45              	11.853      	50          	110         	0           	Open  	;	OTEL
+ 678             	30              	27              	4.402       	50          	110         	0           	Open  	;	OTEL
+ 679             	25              	21              	5.458       	50          	110         	0           	Open  	;	OTEL
+ 680             	22              	20              	5.574       	50          	110         	0           	Open  	;	OTEL
+ 681             	19              	17              	6.676       	50          	110         	0           	Open  	;	OTEL
+ 682             	16              	14              	9.543       	50          	110         	0           	Open  	;	OTEL
+ 683             	55              	58              	7.4         	50          	110         	0           	Open  	;	OTEL
+ 684             	120             	121             	16.548      	50          	110         	0           	Open  	;	OTEL
+ 685             	154             	152             	10.511      	50          	110         	0           	Open  	;	OTEL
+ 686             	153             	146             	13.238      	50          	110         	0           	Open  	;	OTEL
+ 687             	149             	142             	13.11       	50          	110         	0           	Open  	;	OTEL
+ 688             	138             	124             	12.995      	50          	110         	0           	Open  	;	OTEL
+ 689             	122             	115             	12.368      	50          	110         	0           	Open  	;	OTEL
+ 690             	117             	105             	15.35       	50          	110         	0           	Open  	;	OTEL
+ 691             	112             	101             	15.128      	50          	110         	0           	Open  	;	OTEL
+ 692             	90              	89              	0.1         	50          	110         	0           	Open  	;	OTEL
+ 693             	85              	69              	12.46       	50          	110         	0           	Open  	;	OTEL
+ 694             	60              	62              	8.852       	50          	110         	0           	Open  	;	OTEL
+ 695             	56              	70              	8.802       	50          	110         	0           	Open  	;	OTEL
+ 696             	86              	93              	8.19        	50          	110         	0           	Open  	;	OTEL
+ 697             	104             	108             	5.857       	50          	110         	0           	Open  	;	OTEL
+ 698             	126             	127             	0.1         	50          	110         	0           	Open  	;	OTEL
+ 699             	156             	162             	8.582       	50          	110         	0           	Open  	;	OTEL
+ 701             	164             	190             	17.366      	50          	110         	0           	Open  	;	OTEL
+ 702             	361             	354             	5.844       	50          	110         	0           	Open  	;	OTEL
+ 703             	363             	355             	6.03        	50          	110         	0           	Open  	;	OTEL
+ 704             	328             	330             	12.702      	50          	110         	0           	Open  	;	OTEL
+ 706             	380             	394             	5.052       	50          	110         	0           	Open  	;	OTEL
+ 707             	283             	270             	12.418      	50          	110         	0           	Open  	;	OTEL
+ 708             	253             	232             	12.451      	50          	110         	0           	Open  	;	OTEL
+ 709             	233             	223             	8.453       	50          	110         	0           	Open  	;	OTEL
+ 710             	168             	201             	16.252      	50          	110         	0           	Open  	;	OTEL
+ 711             	203             	231             	17.717      	50          	110         	0           	Open  	;	OTEL
+ 712             	230             	256             	17.314      	50          	110         	0           	Open  	;	OTEL
+ 713             	245             	265             	16.271      	50          	110         	0           	Open  	;	OTEL
+ 714             	257             	269             	15.861      	50          	110         	0           	Open  	;	OTEL
+ 715             	208             	227             	8.353       	50          	110         	0           	Open  	;	OTEL
+ 716             	206             	220             	7.544       	50          	110         	0           	Open  	;	OTEL
+ 717             	191             	207             	8.13        	50          	110         	0           	Open  	;	OTEL
+ 718             	229             	204             	12.381      	50          	110         	0           	Open  	;	OTEL
+ 719             	209             	188             	11.462      	50          	110         	0           	Open  	;	OTEL
+ 720             	119             	116             	5.25        	50          	110         	0           	Open  	;	OTEL
+ 721             	145             	139             	5.095       	50          	110         	0           	Open  	;	OTEL
+ 722             	160             	155             	6.686       	50          	110         	0           	Open  	;	OTEL
+ 723             	224             	238             	8.737       	50          	110         	0           	Open  	;	OTEL
+ 724             	272             	285             	9.325       	50          	110         	0           	Open  	;	OTEL
+ 725             	46              	50              	3.671       	50          	110         	0           	Open  	;	OTEL
+ 726             	369             	371             	10.868      	50          	110         	0           	Open  	;	OTEL
+ 727             	372             	370             	6.242       	50          	110         	0           	Open  	;	OTEL
+ 735             	333             	334             	6.348       	50          	110         	0           	Open  	;	OTEL
+ 736             	305             	307             	5.734       	50          	110         	0           	Open  	;	OTEL
+ 737             	268             	271             	6.16        	50          	110         	0           	Open  	;	OTEL
+ 738             	252             	255             	7           	50          	110         	0           	Open  	;	OTEL
+ 739             	288             	295             	12.98       	50          	110         	0           	Open  	;	OTEL
+ 740             	317             	315             	8.789       	50          	110         	0           	Open  	;	OTEL
+ 741             	287             	286             	8.726       	50          	110         	0           	Open  	;	OTEL
+ 742             	181             	215             	16.197      	50          	110         	0           	Open  	;	OTEL
+ 743             	91              	75              	14.417      	50          	110         	0           	Open  	;	OTEL
+ 744             	133             	132             	7.902       	50          	110         	0           	Open  	;	OTEL
+ 745             	74              	73              	0.034       	50          	110         	0           	Open  	;	OTEL
+ 746             	51              	49              	11.024      	50          	110         	0           	Open  	;	OTEL
+ 747             	32              	33              	7.955       	50          	110         	0           	Open  	;	OTEL
+ 748             	41              	44              	4.644       	50          	110         	0           	Open  	;	OTEL
+ 749             	72              	63              	7.085       	50          	110         	0           	Open  	;	OTEL
+ 750             	43              	40              	2.503       	50          	110         	0           	Open  	;	OTEL
+ 751             	53              	47              	10.163      	50          	110         	0           	Open  	;	OTEL
+ 752             	222             	186             	18.316      	50          	110         	0           	Open  	;	OTEL
+ 753             	259             	266             	13.083      	50          	110         	0           	Open  	;	OTEL
+ 754             	236             	228             	10.954      	50          	110         	0           	Open  	;	OTEL
+ 755             	163             	151             	15.298      	50          	110         	0           	Open  	;	OTEL
+ 756             	113             	114             	6.144       	50          	110         	0           	Open  	;	OTEL
+ 757             	130             	134             	4.033       	50          	110         	0           	Open  	;	OTEL
+ 758             	141             	144             	3.169       	50          	110         	0           	Open  	;	OTEL
+ 759             	148             	140             	15.154      	50          	110         	0           	Open  	;	OTEL
+ 760             	125             	118             	15.903      	50          	110         	0           	Open  	;	OTEL
+ 761             	110             	102             	15.706      	50          	110         	0           	Open  	;	OTEL
+ 763             	NV529           	176             	0.645       	315         	148         	0           	Open  	;	PE-HD
+ 764             	180             	179             	0.097       	250         	148         	0           	Open  	;	PE-HD
+ 766             	180             	182             	0.144       	160         	148         	0           	Open  	;	PE-HD
+ 769             	34              	35              	0.849       	80          	100         	0           	Open  	;	F
+ 773             	247             	249             	0.13        	160         	148         	0           	Open  	;	PE-HD
+ 774             	250             	251             	0.237       	90          	148         	0           	Open  	;	PE-HD
+ 775             	64              	71              	9.869       	100         	110         	0           	Open  	;	OTEL
+ 776             	74              	82              	5.7         	80          	100         	0           	Open  	;	F
+ 777             	35              	36              	0.36        	100         	110         	0           	Open  	;	OTEL
+ 778             	7               	9               	4.047       	100         	110         	0           	Open  	;	OTEL
+ 780             	226             	225             	0.499       	100         	110         	0           	Open  	;	OTEL
+ 782             	303             	310             	13.32       	100         	110         	0           	Open  	;	OTEL
+ 783             	186             	172             	13.668      	80          	100         	0           	Open  	;	F
+ 784             	216             	214             	1.198       	100         	110         	0           	Open  	;	OTEL
+ 785             	210             	214             	0.853       	100         	110         	0           	Open  	;	OTEL
+ 786             	263             	260             	1.648       	50          	110         	0           	Open  	;	OTEL
+ 788             	291             	300             	7.664       	50          	110         	0           	Open  	;	OTEL
+ 789             	298             	306             	7.562       	50          	110         	0           	Open  	;	OTEL
+ 790             	314             	325             	8.575       	50          	110         	0           	Open  	;	OTEL
+ 791             	389             	390             	0.336       	200         	148         	0           	Open  	;	PE-HD
+ 792             	379             	378             	0.499       	90          	148         	0           	Open  	;	PE-HD
+ 794             	387             	389             	0.1         	200         	148         	0           	Open  	;	PE-HD
+ 1000            	155             	210             	50.106      	100         	110         	0           	Open  	;	
+ 1001            	321             	316             	16.923      	200         	110         	0           	Open  	;	OTEL
+ 1002            	316             	306             	37.004      	200         	110         	0           	Open  	;	OTEL
+ 1003            	159             	147             	23.246      	80          	100         	0           	Open  	;	F
+ 1004            	147             	146             	1.345       	80          	100         	0           	Open  	;	F
+ 1007            	94              	102             	16.504      	80          	100         	0           	Open  	;	F
+ 1008            	102             	109             	11.895      	80          	100         	0           	Open  	;	F
+
+[PUMPS]
+;ID              	Node1           	Node2           	Parameters
+
+[VALVES]
+;ID              	Node1           	Node2           	Diameter    	Type	Setting     	MinorLoss   
+ 238             	319             	321             	100         	PRV 	0           	0           	;
+ 239             	243             	241             	100         	PRV 	0           	0           	;
+ 240             	217             	210             	100         	PRV 	0           	0           	; Diameter
+ 241             	94              	92              	100         	PRV 	0           	0           	;
+ 242             	39              	NV242           	100         	PRV 	0           	0           	;
+ 243             	37              	NV243           	100         	PRV 	0           	0           	;
+ 244             	187             	186             	100         	PRV 	0           	0           	;
+ 245             	171             	170             	80          	PRV 	0           	0           	; Diameter
+ 246             	277             	NV246           	100         	PRV 	0           	0           	;
+ 247             	NV247           	274             	100         	PRV 	0           	0           	; 
+ 248             	88              	95              	100         	PRV 	0           	0           	;
+ 249             	NV249           	137             	100         	PRV 	0           	0           	; Diameter
+ 250             	135             	131             	100         	PRV 	0           	0           	;
+ 251             	302             	303             	100         	PRV 	0           	0           	;
+ 369             	346             	349             	100         	PRV 	0           	0           	; Diameter
+ 370             	278             	282             	250         	PRV 	0           	0           	;
+ 371             	290             	289             	300         	PRV 	0           	0           	;
+ 372             	293             	292             	300         	PRV 	0           	0           	;
+ 373             	248             	246             	315         	PRV 	0           	0           	;
+ 374             	249             	250             	80          	PRV 	0           	0           	;
+ 375             	81              	82              	100         	PRV 	0           	0           	;
+ 376             	383             	381             	150         	PRV 	0           	0           	;
+ 377             	385             	386             	125         	PRV 	0           	0           	; Diameter
+ 382             	182             	183             	80          	PRV 	0           	0           	;
+ 383             	174             	173             	250         	PRV 	0           	0           	;
+ V529            	177             	NV529           	300         	PRV 	0           	0           	;
+ V530            	176             	178             	300         	PRV 	0           	0           	;
+
+[TAGS]
+
+[DEMANDS]
+;Junction        	Demand      	Pattern         	Category
+
+[STATUS]
+;ID              	Status/Setting
+ 238             	Open
+ 239             	Open
+ 240             	Open
+ 241             	Open
+ 242             	Open
+ 243             	Open
+ 244             	Open
+ 245             	Open
+ 246             	Open
+ 247             	Open
+ 248             	Open
+ 249             	Open
+ 250             	Open
+ 251             	Open
+ 369             	Open
+ 370             	Open
+ 371             	Open
+ 372             	Open
+ 373             	Open
+ 374             	Open
+ 375             	Open
+ 376             	Open
+ 377             	Open
+ 382             	Open
+ 383             	Open
+ V529            	Open
+ V530            	Open
+
+[PATTERNS]
+;ID              	Multipliers
+;
+ DP1             	0.72        	0.72        	0.73        	0.72        	0.72        	0.71        
+ DP1             	0.67        	0.68        	0.68        	0.68        	0.68        	0.65        
+ DP1             	0.66        	0.66        	0.66        	0.66        	0.66        	0.66        
+ DP1             	0.67        	0.64        	0.64        	0.64        	0.64        	0.64        
+ DP1             	0.63        	0.64        	0.63        	0.63        	0.63        	0.63        
+ DP1             	0.63        	0.63        	0.59        	0.59        	0.6         	0.6         
+ DP1             	0.6         	0.6         	0.6         	0.6         	0.58        	0.57        
+ DP1             	0.57        	0.57        	0.57        	0.57        	0.58        	0.58        
+ DP1             	0.58        	0.57        	0.57        	0.57        	0.57        	0.57        
+ DP1             	0.56        	0.56        	0.56        	0.56        	0.56        	0.56        
+ DP1             	0.56        	0.56        	0.56        	0.56        	0.56        	0.56        
+ DP1             	0.55        	0.55        	0.56        	0.57        	0.56        	0.56        
+ DP1             	0.52        	0.53        	0.53        	0.53        	0.53        	0.53        
+ DP1             	0.53        	0.53        	0.53        	0.54        	0.5         	0.51        
+ DP1             	0.51        	0.51        	0.52        	0.52        	0.52        	0.52        
+ DP1             	0.52        	0.51        	0.51        	0.52        	0.51        	0.51        
+ DP1             	0.51        	0.51        	0.51        	0.51        	0.51        	0.51        
+ DP1             	0.51        	0.51        	0.51        	0.51        	0.51        	0.5         
+ DP1             	0.51        	0.5         	0.5         	0.51        	0.5         	0.5         
+ DP1             	0.5         	0.5         	0.5         	0.5         	0.5         	0.5         
+ DP1             	0.5         	0.5         	0.5         	0.5         	0.5         	0.5         
+ DP1             	0.5         	0.5         	0.5         	0.5         	0.5         	0.5         
+ DP1             	0.5         	0.5         	0.5         	0.5         	0.5         	0.5         
+ DP1             	0.49        	0.49        	0.49        	0.49        	0.49        	0.49        
+ DP1             	0.49        	0.49        	0.49        	0.49        	0.49        	0.49        
+ DP1             	0.49        	0.49        	0.49        	0.49        	0.49        	0.49        
+ DP1             	0.49        	0.49        	0.49        	0.48        	0.48        	0.49        
+ DP1             	0.49        	0.48        	0.49        	0.49        	0.48        	0.48        
+ DP1             	0.48        	0.48        	0.48        	0.48        	0.48        	0.48        
+ DP1             	0.48        	0.48        	0.48        	0.48        	0.48        	0.48        
+ DP1             	0.48        	0.45        	0.46        	0.46        	0.46        	0.46        
+ DP1             	0.46        	0.46        	0.46        	0.47        	0.47        	0.46        
+ DP1             	0.47        	0.47        	0.47        	0.47        	0.47        	0.47        
+ DP1             	0.47        	0.47        	0.47        	0.47        	0.47        	0.47        
+ DP1             	0.47        	0.47        	0.46        	0.47        	0.47        	0.47        
+ DP1             	0.47        	0.47        	0.47        	0.47        	0.47        	0.47        
+ DP1             	0.47        	0.47        	0.47        	0.47        	0.47        	0.47        
+ DP1             	0.47        	0.46        	0.47        	0.47        	0.47        	0.47        
+ DP1             	0.47        	0.47        	0.47        	0.46        	0.47        	0.47        
+ DP1             	0.47        	0.47        	0.47        	0.46        	0.47        	0.47        
+ DP1             	0.47        	0.47        	0.47        	0.46        	0.47        	0.47        
+ DP1             	0.46        	0.46        	0.47        	0.47        	0.47        	0.47        
+ DP1             	0.47        	0.47        	0.47        	0.47        	0.47        	0.47        
+ DP1             	0.47        	0.47        	0.47        	0.47        	0.47        	0.47        
+ DP1             	0.47        	0.47        	0.47        	0.47        	0.47        	0.47        
+ DP1             	0.47        	0.47        	0.47        	0.47        	0.47        	0.47        
+ DP1             	0.47        	0.47        	0.47        	0.47        	0.47        	0.47        
+ DP1             	0.47        	0.48        	0.47        	0.48        	0.47        	0.47        
+ DP1             	0.48        	0.47        	0.47        	0.48        	0.47        	0.48        
+ DP1             	0.47        	0.48        	0.48        	0.48        	0.48        	0.47        
+ DP1             	0.48        	0.48        	0.47        	0.47        	0.48        	0.48        
+ DP1             	0.48        	0.48        	0.48        	0.48        	0.48        	0.48        
+ DP1             	0.48        	0.48        	0.48        	0.49        	0.48        	0.49        
+ DP1             	0.48        	0.49        	0.48        	0.48        	0.49        	0.49        
+ DP1             	0.52        	0.52        	0.52        	0.52        	0.51        	0.51        
+ DP1             	0.51        	0.51        	0.51        	0.56        	0.55        	0.55        
+ DP1             	0.56        	0.58        	0.58        	0.57        	0.57        	0.56        
+ DP1             	0.56        	0.56        	0.56        	0.56        	0.56        	0.57        
+ DP1             	0.57        	0.57        	0.57        	0.57        	0.58        	0.58        
+ DP1             	0.58        	0.58        	0.59        	0.62        	0.63        	0.61        
+ DP1             	0.64        	0.64        	0.64        	0.65        	0.65        	0.66        
+ DP1             	0.67        	0.67        	0.67        	0.67        	0.68        	0.71        
+ DP1             	0.72        	0.71        	0.71        	0.75        	0.75        	0.75        
+ DP1             	0.74        	0.74        	0.77        	0.77        	0.78        	0.77        
+ DP1             	0.76        	0.76        	0.76        	0.76        	0.76        	0.77        
+ DP1             	0.77        	0.78        	0.78        	0.78        	0.79        	0.79        
+ DP1             	0.8         	0.8         	0.81        	0.82        	0.83        	0.83        
+ DP1             	0.84        	0.83        	0.84        	0.85        	0.85        	0.86        
+ DP1             	0.86        	0.87        	0.92        	0.93        	0.96        	0.99        
+ DP1             	1.03        	1.05        	1.05        	1.02        	1.03        	1.02        
+ DP1             	1.03        	1.04        	1.06        	1.07        	1.08        	1.09        
+ DP1             	1.14        	1.18        	1.18        	1.22        	1.26        	1.25        
+ DP1             	1.25        	1.26        	1.27        	1.26        	1.27        	1.28        
+ DP1             	1.29        	1.3         	1.31        	1.32        	1.34        	1.38        
+ DP1             	1.39        	1.4         	1.41        	1.4         	1.39        	1.4         
+ DP1             	1.41        	1.44        	1.43        	1.42        	1.42        	1.43        
+ DP1             	1.37        	1.4         	1.43        	1.42        	1.45        	1.45        
+ DP1             	1.47        	1.49        	1.48        	1.48        	1.49        	1.51        
+ DP1             	1.51        	1.51        	1.55        	1.55        	1.54        	1.53        
+ DP1             	1.51        	1.51        	1.52        	1.51        	1.51        	1.51        
+ DP1             	1.51        	1.51        	1.52        	1.51        	1.51        	1.51        
+ DP1             	1.52        	1.52        	1.52        	1.52        	1.56        	1.54        
+ DP1             	1.54        	1.54        	1.53        	1.53        	1.52        	1.55        
+ DP1             	1.53        	1.53        	1.52        	1.52        	1.52        	1.52        
+ DP1             	1.52        	1.52        	1.51        	1.51        	1.51        	1.51        
+ DP1             	1.5         	1.47        	1.47        	1.48        	1.48        	1.48        
+ DP1             	1.48        	1.48        	1.48        	1.48        	1.49        	1.48        
+ DP1             	1.48        	1.49        	1.46        	1.46        	1.47        	1.46        
+ DP1             	1.44        	1.44        	1.45        	1.45        	1.44        	1.44        
+ DP1             	1.44        	1.43        	1.43        	1.43        	1.43        	1.43        
+ DP1             	1.43        	1.42        	1.42        	1.42        	1.41        	1.41        
+ DP1             	1.41        	1.41        	1.42        	1.39        	1.38        	1.42        
+ DP1             	1.42        	1.4         	1.37        	1.38        	1.42        	1.42        
+ DP1             	1.42        	1.4         	1.43        	1.42        	1.39        	1.4         
+ DP1             	1.41        	1.41        	1.41        	1.4         	1.4         	1.4         
+ DP1             	1.4         	1.38        	1.35        	1.37        	1.34        	1.36        
+ DP1             	1.36        	1.37        	1.36        	1.37        	1.35        	1.35        
+ DP1             	1.36        	1.36        	1.36        	1.35        	1.36        	1.35        
+ DP1             	1.35        	1.35        	1.36        	1.34        	1.34        	1.34        
+ DP1             	1.34        	1.34        	1.34        	1.35        	1.35        	1.34        
+ DP1             	1.34        	1.34        	1.34        	1.33        	1.33        	1.33        
+ DP1             	1.33        	1.32        	1.33        	1.33        	1.33        	1.33        
+ DP1             	1.3         	1.33        	1.32        	1.33        	1.32        	1.31        
+ DP1             	1.3         	1.31        	1.31        	1.31        	1.31        	1.31        
+ DP1             	1.28        	1.28        	1.27        	1.28        	1.28        	1.29        
+ DP1             	1.28        	1.27        	1.27        	1.27        	1.27        	1.29        
+ DP1             	1.28        	1.28        	1.29        	1.28        	1.28        	1.28        
+ DP1             	1.27        	1.27        	1.27        	1.27        	1.27        	1.27        
+ DP1             	1.27        	1.26        	1.26        	1.26        	1.26        	1.26        
+ DP1             	1.26        	1.26        	1.26        	1.26        	1.26        	1.26        
+ DP1             	1.26        	1.26        	1.26        	1.26        	1.26        	1.26        
+ DP1             	1.26        	1.26        	1.24        	1.23        	1.23        	1.24        
+ DP1             	1.23        	1.23        	1.23        	1.24        	1.23        	1.23        
+ DP1             	1.23        	1.23        	1.23        	1.21        	1.27        	1.24        
+ DP1             	1.24        	1.21        	1.22        	1.22        	1.23        	1.23        
+ DP1             	1.22        	1.21        	1.21        	1.23        	1.23        	1.25        
+ DP1             	1.24        	1.24        	1.23        	1.24        	1.23        	1.23        
+ DP1             	1.23        	1.23        	1.23        	1.23        	1.22        	1.22        
+ DP1             	1.22        	1.22        	1.22        	1.22        	1.23        	1.23        
+ DP1             	1.21        	1.21        	1.21        	1.2         	1.2         	1.2         
+ DP1             	1.2         	1.21        	1.2         	1.2         	1.2         	1.2         
+ DP1             	1.2         	1.19        	1.2         	1.19        	1.2         	1.19        
+ DP1             	1.19        	1.19        	1.19        	1.19        	1.18        	1.19        
+ DP1             	1.2         	1.19        	1.2         	1.19        	1.19        	1.19        
+ DP1             	1.19        	1.19        	1.2         	1.2         	1.21        	1.17        
+ DP1             	1.21        	1.2         	1.2         	1.21        	1.21        	1.21        
+ DP1             	1.22        	1.22        	1.22        	1.22        	1.22        	1.22        
+ DP1             	1.21        	1.21        	1.21        	1.21        	1.21        	1.21        
+ DP1             	1.21        	1.2         	1.21        	1.21        	1.21        	1.21        
+ DP1             	1.21        	1.21        	1.21        	1.21        	1.21        	1.21        
+ DP1             	1.22        	1.22        	1.22        	1.22        	1.23        	1.23        
+ DP1             	1.23        	1.23        	1.24        	1.24        	1.24        	1.24        
+ DP1             	1.21        	1.21        	1.21        	1.22        	1.23        	1.23        
+ DP1             	1.24        	1.24        	1.24        	1.24        	1.24        	1.24        
+ DP1             	1.25        	1.25        	1.25        	1.26        	1.25        	1.25        
+ DP1             	1.26        	1.27        	1.26        	1.26        	1.26        	1.26        
+ DP1             	1.27        	1.27        	1.27        	1.28        	1.28        	1.27        
+ DP1             	1.27        	1.26        	1.26        	1.26        	1.26        	1.26        
+ DP1             	1.25        	1.25        	1.26        	1.26        	1.26        	1.26        
+ DP1             	1.26        	1.25        	1.26        	1.25        	1.26        	1.25        
+ DP1             	1.25        	1.25        	1.26        	1.26        	1.26        	1.29        
+ DP1             	1.29        	1.28        	1.29        	1.28        	1.28        	1.28        
+ DP1             	1.28        	1.27        	1.27        	1.26        	1.26        	1.26        
+ DP1             	1.26        	1.27        	1.26        	1.26        	1.26        	1.25        
+ DP1             	1.25        	1.25        	1.24        	1.24        	1.24        	1.25        
+ DP1             	1.24        	1.24        	1.24        	1.24        	1.24        	1.23        
+ DP1             	1.23        	1.23        	1.23        	1.22        	1.23        	1.22        
+ DP1             	1.23        	1.23        	1.23        	1.22        	1.23        	1.23        
+ DP1             	1.2         	1.2         	1.21        	1.21        	1.2         	1.2         
+ DP1             	1.2         	1.2         	1.2         	1.19        	1.19        	1.19        
+ DP1             	1.19        	1.18        	1.17        	1.14        	1.14        	1.16        
+ DP1             	1.12        	1.13        	1.14        	1.14        	1.15        	1.15        
+ DP1             	1.15        	1.14        	1.14        	1.14        	1.14        	1.14        
+ DP1             	1.14        	1.14        	1.11        	1.11        	1.11        	1.12        
+ DP1             	1.12        	1.11        	1.11        	1.12        	1.12        	1.12        
+ DP1             	1.12        	1.12        	1.12        	1.11        	1.11        	1.11        
+ DP1             	1.1         	1.1         	1.1         	1.1         	1.1         	1.09        
+ DP1             	1.09        	1.09        	1.09        	1.09        	1.09        	1.09        
+ DP1             	1.09        	1.08        	1.08        	1.08        	1.07        	1.07        
+ DP1             	1.07        	1.05        	1.06        	1.06        	1.06        	1.07        
+ DP1             	1.07        	1.07        	1.07        	1.07        	1.07        	1.06        
+ DP1             	1.07        	1.06        	1.07        	1.07        	1.07        	1.07        
+ DP1             	1.07        	1.07        	1.07        	1.07        	1.07        	1.08        
+ DP1             	1.07        	1.06        	1.07        	1.07        	1.06        	1.06        
+ DP1             	1.06        	1.05        	1.05        	1.05        	1.05        	1.04        
+ DP1             	1.04        	1.05        	1.05        	1.03        	1.03        	1.03        
+ DP1             	1.03        	1.03        	1.03        	1.04        	1.03        	1.04        
+ DP1             	1.04        	1.04        	1.04        	1.04        	1.04        	1.04        
+ DP1             	1.05        	1.05        	1.05        	1.05        	1.05        	1.05        
+ DP1             	1.05        	1.05        	1.05        	1.06        	1.05        	1.06        
+ DP1             	1.06        	1.06        	1.06        	1.06        	1.06        	1.06        
+ DP1             	1.06        	1.06        	1.05        	1.06        	1.05        	1.06        
+ DP1             	1.06        	1.06        	1.06        	1.05        	1.05        	1.05        
+ DP1             	1.05        	1.05        	1.05        	1.05        	1.04        	1.04        
+ DP1             	1.05        	1.05        	1.05        	1.05        	1.05        	1.03        
+ DP1             	1.04        	1.04        	1.05        	1.05        	1.05        	1.06        
+ DP1             	1.06        	1.06        	1.06        	1.06        	1.07        	1.09        
+ DP1             	1.08        	1.08        	1.08        	1.08        	1.07        	1.07        
+ DP1             	1.07        	1.08        	1.08        	1.09        	1.09        	1.09        
+ DP1             	1.08        	1.09        	1.09        	1.09        	1.1         	1.1         
+ DP1             	1.1         	1.1         	1.09        	1.09        	1.1         	1.1         
+ DP1             	1.1         	1.1         	1.11        	1.11        	1.11        	1.1         
+ DP1             	1.1         	1.1         	1.1         	1.1         	1.1         	1.11        
+ DP1             	1.1         	1.1         	1.1         	1.11        	1.1         	1.11        
+ DP1             	1.11        	1.11        	1.1         	1.11        	1.12        	1.12        
+ DP1             	1.12        	1.12        	1.12        	1.12        	1.12        	1.12        
+ DP1             	1.12        	1.12        	1.12        	1.12        	1.12        	1.13        
+ DP1             	1.13        	1.13        	1.13        	1.13        	1.14        	1.14        
+ DP1             	1.14        	1.15        	1.18        	1.19        	1.19        	1.18        
+ DP1             	1.18        	1.18        	1.18        	1.18        	1.18        	1.18        
+ DP1             	1.18        	1.18        	1.19        	1.19        	1.19        	1.18        
+ DP1             	1.19        	1.2         	1.2         	1.2         	1.22        	1.23        
+ DP1             	1.22        	1.22        	1.22        	1.21        	1.21        	1.23        
+ DP1             	1.23        	1.22        	1.23        	1.23        	1.24        	1.24        
+ DP1             	1.27        	1.27        	1.26        	1.26        	1.25        	1.25        
+ DP1             	1.25        	1.25        	1.25        	1.26        	1.25        	1.25        
+ DP1             	1.26        	1.26        	1.25        	1.25        	1.26        	1.25        
+ DP1             	1.25        	1.26        	1.26        	1.26        	1.26        	1.27        
+ DP1             	1.27        	1.27        	1.26        	1.25        	1.25        	1.25        
+ DP1             	1.25        	1.25        	1.25        	1.23        	1.23        	1.24        
+ DP1             	1.24        	1.25        	1.27        	1.27        	1.27        	1.27        
+ DP1             	1.27        	1.27        	1.27        	1.27        	1.27        	1.27        
+ DP1             	1.27        	1.26        	1.27        	1.27        	1.27        	1.27        
+ DP1             	1.27        	1.28        	1.28        	1.28        	1.27        	1.27        
+ DP1             	1.26        	1.27        	1.26        	1.26        	1.26        	1.26        
+ DP1             	1.27        	1.28        	1.28        	1.28        	1.27        	1.28        
+ DP1             	1.29        	1.3         	1.3         	1.3         	1.31        	1.3         
+ DP1             	1.3         	1.3         	1.3         	1.29        	1.3         	1.29        
+ DP1             	1.29        	1.28        	1.27        	1.27        	1.27        	1.27        
+ DP1             	1.25        	1.25        	1.24        	1.23        	1.22        	1.22        
+ DP1             	1.22        	1.2         	1.2         	1.19        	1.17        	1.18        
+ DP1             	1.17        	1.16        	1.16        	1.17        	1.16        	1.19        
+ DP1             	1.17        	1.12        	1.13        	1.14        	1.14        	1.19        
+ DP1             	1.17        	1.16        	1.14        	1.1         	1.1         	1.1         
+ DP1             	1.11        	1.11        	1.11        	1.11        	1.11        	1.1         
+ DP1             	1.11        	1.1         	1.1         	1.1         	1.09        	1.09        
+ DP1             	1.09        	1.09        	1.08        	1.08        	1.1         	1.09        
+ DP1             	1.09        	1.08        	1.07        	1.07        	1.06        	1.05        
+ DP1             	1.05        	1.05        	1.04        	1.01        	1.01        	1.03        
+ DP1             	1           	1.01        	1.02        	1.01        	1.01        	1.01        
+ DP1             	0.97        	0.97        	0.97        	0.96        	0.96        	0.95        
+ DP1             	0.95        	0.95        	0.96        	0.94        	0.94        	0.93        
+ DP1             	0.92        	0.92        	0.91        	0.92        	0.92        	0.93        
+ DP1             	0.93        	0.92        	0.92        	0.92        	0.92        	0.91        
+ DP1             	0.9         	0.9         	0.86        	0.87        	0.85        	0.87        
+ DP1             	0.87        	0.87        	0.86        	0.86        	0.86        	0.87        
+ DP1             	0.87        	0.87        	0.87        	0.87        	0.87        	0.88        
+ DP1             	0.88        	0.89        	0.89        	0.89        	0.88        	0.88        
+ DP1             	0.88        	0.87        	0.87        	0.87        	0.87        	0.86        
+ DP1             	0.86        	0.86        	0.86        	0.86        	0.84        	0.84        
+ DP1             	0.85        	0.85        	0.85        	0.84        	0.83        	0.83        
+ DP1             	0.83        	0.82        	0.82        	0.82        	0.78        	0.79        
+ DP1             	0.8         	0.81        	0.81        	0.82        	0.82        	0.82        
+ DP1             	0.82        	0.82        	0.82        	0.8         	0.79        	0.79        
+ DP1             	0.79        	0.79        	0.79        	0.79        	0.79        	0.75        
+ DP1             	0.76        	0.76        	0.76        	0.76        	0.76        	0.77        
+ DP1             	0.77        	0.77        	0.77        	0.76        	0.76        	0.77        
+ DP1             	0.76        	0.77        	0.77        	0.78        	0.78        	0.78        
+ DP1             	0.77        	0.77        	0.77        	0.77        	0.77        	0.76        
+ DP1             	0.75        	0.76        	0.75        	0.74        	0.74        	0.75        
+
+[CONTROLS]
+;Lake source operates only part of the day
+
+;Pump 335 controlled by level in Tank 1
+;When pump is closed, bypass pipe is opened
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[RULES]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ENERGY]
+ Global Efficiency  	75
+ Global Price       	0.0
+ Demand Charge      	0.0
+
+[EMITTERS]
+;Junction        	Coefficient
+
+[QUALITY]
+;Node            	InitQual
+
+[SOURCES]
+;Node            	Type        	Quality     	Pattern
+
+[REACTIONS]
+;Type     	Pipe/Tank       	Coefficient
+
+
+[REACTIONS]
+ Order Bulk            	1
+ Order Tank            	1
+ Order Wall            	1
+ Global Bulk           	0.0
+ Global Wall           	0.0
+ Limiting Potential    	0.0
+ Roughness Correlation 	0.0
+
+[MIXING]
+;Tank            	Model
+
+[TIMES]
+ Duration           	24:00 
+ Hydraulic Timestep 	0:01 
+ Quality Timestep   	0:05 
+ Pattern Timestep   	0:01 
+ Pattern Start      	0:00 
+ Report Timestep    	0:01 
+ Report Start       	0:00 
+ Start ClockTime    	12 am
+ Statistic          	NONE
+
+[REPORT]
+ Status             	Yes
+ Summary            	No
+ Page               	0
+
+[OPTIONS]
+ Units              	LPS
+ Headloss           	H-W
+ Specific Gravity   	1.0
+ Viscosity          	1.0
+ Trials             	40
+ Accuracy           	0.001
+ CHECKFREQ          	2
+ MAXCHECK           	10
+ DAMPLIMIT          	0
+ Unbalanced         	Continue 10
+ Pattern            	1
+ Demand Multiplier  	1.0
+ Emitter Exponent   	0.5
+ Quality            	0.0 mg/L
+ Diffusivity        	1.0
+ Tolerance          	0.01
+
+[COORDINATES]
+;Node            	X-Coord         	Y-Coord
+ 3               	208304.74       	480177.69       
+ 7               	208240.26       	480170.10       
+ 8               	208232.97       	480168.01       
+ 9               	208241.53       	480166.25       
+ 10              	208234.10       	480163.66       
+ 11              	208309.34       	480162.46       
+ 12              	208201.53       	480158.99       
+ 13              	208204.13       	480151.35       
+ 14              	208174.70       	480149.84       
+ 15              	208314.87       	480143.75       
+ 16              	208177.79       	480140.81       
+ 17              	208153.44       	480140.77       
+ 18              	208299.44       	480140.40       
+ 19              	208156.46       	480134.81       
+ 20              	208134.37       	480132.52       
+ 21              	208125.23       	480128.57       
+ 22              	208136.59       	480127.40       
+ 24              	208319.46       	480125.23       
+ 25              	208127.40       	480123.56       
+ 27              	208103.92       	480117.78       
+ 28              	208237.65       	480115.18       
+ 30              	208105.99       	480113.90       
+ 31              	208238.56       	480112.52       
+ 32              	208306.58       	480109.60       
+ 33              	208314.53       	480109.13       
+ 34              	208189.77       	480107.48       
+ 35              	208189.02       	480107.08       
+ 36              	208189.21       	480106.77       
+ 37              	208082.09       	480106.13       
+ 38              	208078.82       	480103.78       
+ 39              	208079.05       	480103.35       
+ 40              	208179.62       	480101.39       
+ 41              	208170.02       	480101.00       
+ 42              	208093.73       	480100.86       
+ 43              	208180.92       	480099.25       
+ 44              	208172.43       	480097.03       
+ 45              	208083.44       	480094.98       
+ 46              	208159.37       	480093.14       
+ 47              	208165.18       	480092.61       
+ 48              	208059.70       	480092.06       
+ 49              	208313.32       	480090.78       
+ 50              	208161.42       	480090.09       
+ 51              	208324.30       	480089.78       
+ 52              	208062.24       	480088.43       
+ 53              	208167.52       	480084.07       
+ 54              	208140.58       	480081.15       
+ 55              	208303.75       	480080.75       
+ 56              	208226.81       	480078.60       
+ 57              	208040.10       	480078.60       
+ 58              	208310.77       	480078.42       
+ 59              	208142.90       	480077.69       
+ 60              	208258.62       	480076.43       
+ 61              	208041.94       	480075.94       
+ 62              	208249.84       	480075.32       
+ 63              	208137.22       	480073.99       
+ 64              	208308.70       	480072.16       
+ 65              	208240.69       	480071.61       
+ 66              	208028.58       	480070.59       
+ 67              	208240.68       	480070.31       
+ 68              	208250.17       	480070.11       
+ 69              	208231.80       	480070.08       
+ 70              	208228.70       	480070.00       
+ 71              	208318.27       	480069.75       
+ 72              	208141.08       	480068.05       
+ 73              	208306.98       	480067.52       
+ 74              	208307.02       	480067.51       
+ 75              	208277.52       	480067.23       
+ 76              	208030.98       	480067.15       
+ 77              	208111.93       	480066.68       
+ 78              	208099.57       	480065.98       
+ 79              	208098.83       	480065.60       
+ 80              	208318.13       	480064.16       
+ 81              	208304.61       	480062.17       
+ 82              	208305.34       	480062.07       
+ 83              	208101.23       	480061.05       
+ 84              	208102.61       	480058.42       
+ 85              	208232.12       	480057.63       
+ 86              	208196.08       	480057.60       
+ 87              	208095.91       	480054.89       
+ 88              	208112.05       	480054.02       
+ 89              	208204.46       	480053.66       
+ 90              	208204.46       	480053.66       
+ 91              	208275.50       	480052.95       
+ 92              	207997.29       	480051.50       
+ 93              	208200.93       	480051.01       
+ 94              	207997.78       	480051.00       
+ 95              	208106.54       	480050.96       
+ 98              	208108.06       	480048.21       
+ 99              	208103.25       	480045.55       
+ 100             	208212.76       	480042.90       
+ 101             	208185.46       	480039.61       
+ 102             	208008.17       	480038.18       
+ 104             	208168.61       	480034.55       
+ 105             	208176.31       	480032.86       
+ 108             	208172.03       	480029.79       
+ 109             	208015.60       	480028.89       
+ 110             	207995.91       	480028.37       
+ 111             	208014.51       	480027.96       
+ 112             	208194.43       	480027.43       
+ 113             	208024.80       	480027.22       
+ 114             	208020.00       	480023.39       
+ 115             	208161.52       	480022.26       
+ 116             	207963.32       	480021.63       
+ 117             	208185.25       	480020.39       
+ 118             	208022.40       	480020.39       
+ 119             	207966.97       	480017.86       
+ 120             	208319.76       	480013.21       
+ 121             	208303.22       	480013.12       
+ 122             	208168.73       	480012.21       
+ 123             	208142.96       	480012.19       
+ 124             	208145.56       	480010.83       
+ 125             	208009.98       	480010.46       
+ 126             	208144.48       	480010.06       
+ 127             	208144.48       	480010.06       
+ 128             	208142.37       	480008.54       
+ 129             	208142.48       	480008.38       
+ 130             	208038.01       	480007.32       
+ 131             	208139.14       	480005.82       
+ 132             	208303.26       	480005.49       
+ 133             	208295.36       	480005.45       
+ 134             	208034.86       	480004.80       
+ 135             	208135.00       	480002.70       
+ 136             	208133.55       	480001.64       
+ 137             	208133.80       	480001.33       
+ 138             	208153.12       	480000.25       
+ 139             	207940.29       	479999.00       
+ 140             	208039.98       	479998.39       
+ 141             	208044.19       	479998.20       
+ 142             	208128.37       	479997.68       
+ 143             	208114.99       	479996.86       
+ 144             	208041.71       	479996.23       
+ 145             	207943.83       	479995.34       
+ 146             	208120.44       	479991.72       
+ 147             	208119.36       	479990.92       
+ 148             	208028.15       	479988.93       
+ 149             	208136.24       	479987.19       
+ 150             	208096.15       	479982.97       
+ 151             	208052.52       	479982.71       
+ 152             	208305.05       	479981.66       
+ 153             	208128.39       	479981.14       
+ 154             	208294.57       	479980.81       
+ 155             	207921.45       	479980.48       
+ 156             	208088.40       	479980.13       
+ 157             	208305.28       	479978.76       
+ 158             	208306.87       	479978.76       
+ 159             	208100.19       	479977.76       
+ 160             	207926.55       	479976.16       
+ 161             	208305.28       	479973.64       
+ 162             	208093.54       	479973.26       
+ 163             	208040.57       	479973.16       
+ 164             	208345.15       	479970.55       
+ 168             	208263.55       	479963.84       
+ 170             	208079.26       	479961.97       
+ 171             	208079.36       	479961.48       
+ 172             	208070.04       	479959.41       
+ 173             	208309.73       	479957.49       
+ 174             	208309.73       	479957.26       
+ 175             	208309.73       	479957.02       
+ 176             	208309.72       	479956.78       
+ 177             	208309.08       	479956.78       
+ 178             	208310.22       	479956.77       
+ 179             	208309.72       	479956.66       
+ 180             	208309.73       	479956.57       
+ 181             	208244.95       	479956.42       
+ 182             	208309.73       	479956.42       
+ 183             	208309.73       	479956.26       
+ 184             	208309.74       	479956.01       
+ 185             	208296.75       	479955.51       
+ 186             	208057.00       	479955.32       
+ 187             	208054.02       	479954.38       
+ 188             	208053.31       	479954.24       
+ 189             	208296.94       	479954.09       
+ 190             	208341.88       	479953.50       
+ 191             	208005.98       	479952.73       
+ 200             	208023.57       	479948.77       
+ 201             	208268.14       	479948.25       
+ 202             	208023.69       	479948.21       
+ 203             	208224.10       	479948.15       
+ 204             	208017.79       	479946.94       
+ 206             	207975.56       	479945.67       
+ 207             	208007.68       	479944.78       
+ 208             	207961.62       	479943.52       
+ 209             	208055.94       	479943.08       
+ 210             	207888.64       	479942.61       
+ 211             	207994.78       	479942.02       
+ 214             	207888.10       	479941.93       
+ 215             	208251.21       	479941.48       
+ 216             	207889.11       	479941.25       
+ 217             	207890.96       	479941.08       
+ 218             	208084.55       	479940.04       
+ 219             	207979.16       	479938.72       
+ 220             	207977.12       	479938.29       
+ 221             	207995.67       	479937.90       
+ 222             	208062.48       	479937.84       
+ 223             	208242.63       	479937.42       
+ 224             	207924.66       	479936.72       
+ 225             	207963.93       	479936.00       
+ 226             	207964.01       	479935.51       
+ 227             	207963.85       	479935.47       
+ 228             	207883.75       	479935.15       
+ 229             	208020.38       	479934.84       
+ 230             	208194.21       	479933.22       
+ 231             	208231.80       	479932.19       
+ 232             	208227.25       	479930.00       
+ 233             	208246.31       	479929.81       
+ 234             	208304.14       	479929.73       
+ 235             	208305.07       	479929.52       
+ 236             	207893.06       	479929.38       
+ 238             	207926.00       	479928.09       
+ 239             	208220.87       	479926.92       
+ 241             	207912.20       	479926.58       
+ 243             	207911.60       	479926.46       
+ 244             	208221.47       	479925.68       
+ 245             	208172.72       	479921.59       
+ 246             	208207.74       	479920.59       
+ 247             	208207.82       	479920.43       
+ 248             	208207.19       	479920.32       
+ 249             	208207.87       	479920.32       
+ 250             	208207.93       	479920.20       
+ 251             	208208.04       	479919.99       
+ 252             	208295.60       	479919.56       
+ 253             	208232.66       	479918.78       
+ 255             	208302.42       	479917.99       
+ 256             	208201.78       	479917.65       
+ 257             	208152.62       	479911.20       
+ 259             	207928.42       	479908.81       
+ 260             	207867.01       	479908.13       
+ 263             	207868.45       	479907.34       
+ 265             	208179.89       	479906.99       
+ 266             	207915.58       	479906.28       
+ 268             	208290.66       	479897.05       
+ 269             	208159.68       	479896.99       
+ 270             	208157.65       	479895.99       
+ 271             	208296.66       	479895.65       
+ 272             	208058.18       	479892.94       
+ 274             	208083.99       	479889.53       
+ 276             	208084.26       	479888.05       
+ 277             	208082.64       	479887.75       
+ 278             	208107.78       	479885.81       
+ 279             	208136.73       	479885.78       
+ 281             	208106.80       	479885.74       
+ 282             	208107.88       	479885.53       
+ 283             	208163.49       	479885.03       
+ 284             	208108.32       	479884.32       
+ 285             	208059.95       	479883.78       
+ 286             	208205.42       	479881.59       
+ 287             	208214.09       	479880.57       
+ 288             	208192.19       	479880.26       
+ 289             	208124.92       	479880.08       
+ 290             	208124.57       	479879.96       
+ 291             	208000.94       	479879.94       
+ 292             	208125.01       	479879.81       
+ 293             	208125.14       	479879.45       
+ 294             	208122.47       	479879.22       
+ 295             	208205.09       	479878.75       
+ 296             	208122.69       	479878.60       
+ 297             	208021.70       	479876.41       
+ 298             	207976.81       	479874.84       
+ 299             	207845.32       	479872.49       
+ 300             	208002.61       	479872.46       
+ 302             	207844.30       	479870.79       
+ 303             	207845.11       	479870.31       
+ 305             	208284.37       	479868.25       
+ 306             	207978.34       	479867.44       
+ 307             	208289.96       	479866.94       
+ 308             	207940.68       	479866.78       
+ 309             	207858.21       	479865.14       
+ 310             	207856.64       	479863.65       
+ 311             	208121.70       	479861.71       
+ 312             	208123.68       	479861.33       
+ 314             	207909.26       	479860.93       
+ 315             	208202.97       	479860.06       
+ 316             	207942.10       	479859.94       
+ 317             	208211.69       	479858.97       
+ 318             	208123.10       	479857.93       
+ 319             	207925.31       	479857.36       
+ 321             	207925.54       	479856.45       
+ 322             	207916.22       	479854.80       
+ 323             	207916.45       	479853.95       
+ 324             	208286.81       	479853.50       
+ 325             	207911.43       	479852.64       
+ 327             	208285.71       	479848.81       
+ 328             	208188.70       	479848.38       
+ 329             	208287.70       	479848.35       
+ 330             	208201.31       	479846.80       
+ 333             	208276.87       	479837.11       
+ 334             	208283.10       	479835.85       
+ 336             	207829.38       	479834.94       
+ 342             	207830.23       	479831.89       
+ 346             	207822.53       	479830.28       
+ 349             	207823.16       	479829.40       
+ 353             	208218.99       	479822.40       
+ 354             	208228.71       	479820.92       
+ 355             	208239.73       	479819.25       
+ 356             	208116.23       	479818.24       
+ 361             	208227.83       	479815.15       
+ 362             	208276.48       	479813.65       
+ 363             	208238.82       	479813.29       
+ 364             	208115.19       	479812.06       
+ 366             	208275.04       	479804.70       
+ 369             	208183.39       	479798.45       
+ 370             	208194.03       	479796.02       
+ 371             	208193.74       	479795.12       
+ 372             	208199.97       	479794.10       
+ 373             	208111.21       	479788.92       
+ 374             	208116.18       	479788.02       
+ 376             	208108.81       	479775.55       
+ 377             	208109.02       	479775.52       
+ 378             	208108.27       	479772.43       
+ 379             	208108.18       	479771.94       
+ 380             	208149.96       	479771.78       
+ 381             	208108.11       	479771.56       
+ 382             	208188.89       	479771.54       
+ 383             	208108.07       	479771.31       
+ 384             	208107.36       	479771.23       
+ 385             	208107.63       	479771.18       
+ 386             	208107.83       	479771.14       
+ 387             	208108.03       	479771.10       
+ 388             	208108.03       	479771.10       
+ 389             	208108.03       	479771.10       
+ 390             	208108.36       	479771.03       
+ 391             	208111.10       	479770.82       
+ 394             	208149.25       	479766.78       
+ 396             	208185.25       	479761.68       
+ 397             	208187.16       	479761.41       
+ 399             	208262.88       	479750.48       
+ NV242           	208078.86       	480103.70       
+ NV243           	208081.76       	480105.90       
+ NV246           	208083.03       	479887.82       
+ NV247           	208084.06       	479889.14       
+ NV249           	208133.65       	480001.51       
+ NV529           	208309.48       	479956.78       
+ 1               	207755.94       	479816.89       
+
+[VERTICES]
+;Link            	X-Coord         	Y-Coord
+ 415             	208195.17       	479799.58       
+ 415             	208199.58       	479832.03       
+ 415             	208199.93       	479832.14       
+ 415             	208200.13       	479832.46       
+ 415             	208200.01       	479832.85       
+ 415             	208199.70       	479833.03       
+ 417             	208192.00       	479789.75       
+ 421             	208276.86       	479816.17       
+ 421             	208277.17       	479817.36       
+ 421             	208277.92       	479818.21       
+ 421             	208278.47       	479818.61       
+ 421             	208279.18       	479818.85       
+ 421             	208280.60       	479819.04       
+ 421             	208281.52       	479819.60       
+ 421             	208281.82       	479820.44       
+ 421             	208281.51       	479821.35       
+ 421             	208280.73       	479821.97       
+ 421             	208282.33       	479832.07       
+ 437             	208078.99       	479963.40       
+ 438             	208217.99       	480163.39       
+ 438             	208218.12       	480163.70       
+ 438             	208218.31       	480163.97       
+ 438             	208218.69       	480164.01       
+ 438             	208218.69       	480164.01       
+ 438             	208218.91       	480163.94       
+ 438             	208219.14       	480163.66       
+ 449             	208260.14       	480069.51       
+ 449             	208267.62       	480068.71       
+ 457             	208304.46       	480055.81       
+ 457             	208303.40       	480047.78       
+ 457             	208303.14       	480044.79       
+ 457             	208303.07       	480032.76       
+ 458             	208239.07       	480111.01       
+ 458             	208245.51       	480093.74       
+ 458             	208248.37       	480086.96       
+ 462             	207998.16       	480052.27       
+ 462             	208003.18       	480052.92       
+ 470             	208217.63       	480063.79       
+ 470             	208221.90       	480067.05       
+ 470             	208223.96       	480068.71       
+ 485             	208120.82       	479844.69       
+ 485             	208120.50       	479844.57       
+ 485             	208120.35       	479844.31       
+ 485             	208120.38       	479843.96       
+ 485             	208120.65       	479843.70       
+ 485             	208120.19       	479841.02       
+ 485             	208119.59       	479837.54       
+ 485             	208118.18       	479829.30       
+ 485             	208117.69       	479826.49       
+ 494             	208243.25       	480070.38       
+ 494             	208246.24       	480070.47       
+ 502             	207955.35       	479933.12       
+ 502             	207945.26       	479931.23       
+ 505             	208114.81       	479771.67       
+ 506             	208110.17       	479770.61       
+ 508             	208324.46       	479955.81       
+ 508             	208333.87       	479955.03       
+ 510             	208264.36       	480177.60       
+ 510             	208301.21       	480189.40       
+ 511             	208313.09       	480088.24       
+ 511             	208312.43       	480083.43       
+ 512             	208313.65       	480094.38       
+ 517             	207860.35       	479897.39       
+ 520             	207866.15       	479841.03       
+ 525             	207822.24       	479831.39       
+ 528             	207903.24       	479933.06       
+ 528             	207911.33       	479927.65       
+ 540             	207919.56       	479927.09       
+ 540             	207914.11       	479926.91       
+ 541             	208286.67       	479953.72       
+ 546             	208118.23       	480062.00       
+ 546             	208115.80       	480056.12       
+ 552             	208100.80       	479891.33       
+ 553             	208086.03       	479932.72       
+ 553             	208091.48       	479906.38       
+ 553             	208082.77       	479899.04       
+ 553             	208081.67       	479898.12       
+ 554             	208234.02       	480070.14       
+ 554             	208236.88       	480070.22       
+ 555             	208110.33       	480044.13       
+ 555             	208114.57       	480036.41       
+ 555             	208119.89       	480027.26       
+ 555             	208125.32       	480018.14       
+ 555             	208132.51       	480006.51       
+ 563             	208250.20       	480072.45       
+ 577             	208290.30       	480065.42       
+ 577             	208302.74       	480062.63       
+ 580             	208305.81       	479956.76       
+ 583             	208125.89       	479874.06       
+ 583             	208126.24       	479876.24       
+ 583             	208125.77       	479877.60       
+ 601             	208111.45       	479875.71       
+ 610             	208087.32       	480087.56       
+ 610             	208089.88       	480082.69       
+ 610             	208093.95       	480074.92       
+ 610             	208097.74       	480067.68       
+ 629             	208305.26       	479971.41       
+ 629             	208309.74       	479959.93       
+ 636             	208069.31       	479961.71       
+ 659             	208308.53       	479944.55       
+ 659             	208309.79       	479953.60       
+ 659             	208309.75       	479955.19       
+ 661             	208206.72       	479892.71       
+ 661             	208208.52       	479907.39       
+ 661             	208209.40       	479917.09       
+ 661             	208208.60       	479918.94       
+
+[LABELS]
+;X-Coord           Y-Coord          Label & Anchor Node
+
+[BACKDROP]
+ DIMENSIONS     	207781.00       	479727.00       	208493.00       	480196.00       
+ UNITS          	Meters
+ FILE           	
+ OFFSET         	0.00            	0.00            
+
+[END]
